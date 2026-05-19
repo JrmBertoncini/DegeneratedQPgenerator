@@ -1,6 +1,11 @@
 # randomQP
 
-Random quadratic program generator for benchmarking and RL-based solver training.
+Random quadratic program generator for benchmarking and RL-based solver training, used in
+
+> J. Bertoncini, A. De Marchi, M. Gerdts, S. Gottschalk,
+> **Reinforcement learning for adaptive interior point methods in convex quadratic programming**
+> arXiv:2509.07404 [math.OC], 2025.
+> <https://doi.org/10.48550/arXiv.2509.07404>
 
 ---
 
